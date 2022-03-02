@@ -1,10 +1,11 @@
 #grid {
-    width: 400px;
-    height: 300px;
+    width: 100%;
+    height: 50%;
     display: flex;
     flex-wrap: wrap;
 }
 
 img {
-    width: 80px;
+    width: 10%;
+    margin: 30px;
 }
